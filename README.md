@@ -24,7 +24,7 @@
 - **Data Science & AI:** NumPy, Pandas, PyTorch, Machine Learning, TensorFlow, NLP  
 - **Big Data & Cloud:** AWS, Google Cloud Platform, Azure, Spark, Airflow, Dbt  
 - **Databases:** MySQL, MongoDB, SQL optimization  
-- **Visualization & Tools:** Tableau, Matplotlib, Git, VSCode, IntelliJ  
+- **Visualization & Tools:** Tableau, PowerBI, Matplotlib, Git, VSCode, IntelliJ  
 
 ---
 
