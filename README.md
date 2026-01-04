@@ -74,13 +74,22 @@
 **Amazon Reviews Sentiment Analysis with BERT** *(NLP | AI | Deep Learning)*  
 - Trained a **BERT-based model** on **100,000+ Amazon reviews**, achieving **92% accuracy**.  
 - Utilized **PyTorch & TensorFlow** for training and fine-tuning.  
-- Improved prediction reliability using **precision (91%) and F1-score (91%)** metrics.  
-
+- Improved prediction reliability using **precision (91%) and F1-score (91%)** metrics.
+  
+**Real-time E-commerce Order Fraud Detection** *(Kafka, PySpark Streaming, Databricks, Azure Data Lake, Power BI)*
+- Built streaming pipeline ingesting 10K+ orders/sec via Kafka topics into Databricks, using PySpark Structured Streaming for real-time fraud scoring with windowed aggregations and ML model inference (Random Forest).
+- Enriched streams with historical patterns from Azure Data Lake, applying stateful processing for velocity/frequency anomaly detection, reducing false positives by 35%.
+- Output fraud alerts to Power BI real-time dashboards and Snowflake for archival, orchestrated via Databricks Workflows with auto-scaling clusters for 99.9% uptime.
+  
+**NYC Taxi Trip Analytics Pipeline** *(PySpark, AWS, Airflow, Tableau)*
+- Engineered end-to-end batch ETL pipeline processing 10M+ NYC taxi trip records from AWS S3 using PySpark on EMR clusters, achieving 8x faster processing via partitioning and broadcast joins.
+- Orchestrated daily jobs with Apache Airflow DAGs for data quality checks, SLA monitoring, retry policies, transformations (fare optimization, zone aggregation), and loading to Redshift via optimized COPY commands.
+- Delivered Tableau dashboards tracking revenue trends, peak hours, and driver efficiency KPIs, enabling 20% better fleet optimization insights for stakeholders. 
 ---
 
 ### 💪 **Leadership & Extracurricular Activities**  
 
-**Graduate Orientation Leader (NYU, Fall 2024 & Spring 2025)**  
+**Graduate Orientation Leader (NYU, Fall 2024 & Spring 2025 & Fall 2025)**  
 - Assisted **1,600+ graduate students** with a smooth transition into NYU.  
 - Collaborated with **40+ student leaders** to organize engagement events.  
 
