@@ -22,7 +22,7 @@
 - **Programming:** Python, Java, JavaScript, SQL (MySQL), NoSQL (MongoDB), HTML, CSS  
 - **Web Development:** React.js, Node.js, Express.js
 - **Data Science & AI:** NumPy, Pandas, PyTorch, Machine Learning, TensorFlow, NLP  
-- **Big Data & Cloud:** AWS, Google Cloud Platform, Kubernetes, PySpark  
+- **Big Data & Cloud:** AWS, Google Cloud Platform, Azure, Spark, Airflow, Dbt  
 - **Databases:** MySQL, MongoDB, SQL optimization  
 - **Visualization & Tools:** Tableau, Matplotlib, Git, VSCode, IntelliJ  
 
@@ -40,12 +40,15 @@
 
 ### 💼 **Work Experience**  
 
-**Freelance Software Developer** *(Aug 2023 - Sep 2023)*  
-- Built **scalable web applications** to enhance vendor-client interactions.  
-- Designed an intuitive **React.js UI** for a seamless user experience.  
-- Developed **RESTful APIs** using Node.js & Express.js for optimized performance.  
-- Implemented **MongoDB for secure and scalable data management**.  
-- Enhanced **security with authentication, authorization, and role-based access control**.  
+**Data Analyst Intern / Power BI Developer** *(Jun 2024 - Present)*  
+- Spearheaded migration of 70+ enterprise reports from MicroStrategy to Power BI, collaborating with 10+ cross-functional stakeholders to define KPIs, gather business requirements, and drive standardized reporting across departments. 
+- Developed scalable, relational Power BI data models by integrating multi-source datasets (Snowflake, SQL Server, SharePoint, ServiceNow) with robust metadata and refresh controls. 
+- Optimized complex SQL queries using advanced joins, CTEs, indexing, and subqueries—achieving 40% faster runtimes and 70% quicker dashboard load times. 
+- Designed and published interactive Power BI dashboards for SLA tracking, cost analysis, and ServiceNow analytics—identifying $100K+ in cost savings and reducing resolution delays by 10%. 
+- Applied statistical modeling and time-series forecasting techniques to predict fiscal trends, perform variance analysis, and inform strategic financial planning. 
+- Conducted root-cause analysis and KPI benchmarking using ServiceNow and CMDB data, redefining metrics to enhance team performance, resource allocation, and operational efficiency. 
+- Documented key workflows, data logic, transformation rules, and analysis outputs in SharePoint—supporting reproducibility, cross-team collaboration, audit-readiness, and faster onboarding. 
+- Pursued continuous learning and upskilling through hands-on training in Microsoft Azure Document Intelligence, Power BI advanced analytics.**.
 
 **Data Analytics Intern** *(AWS | Remote | Jun 2022 - Aug 2022)*  
 - Analyzed large datasets using **SQL, Python, and AWS data analytics tools**.  
