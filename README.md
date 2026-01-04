@@ -40,7 +40,7 @@
 
 ### 💼 **Work Experience**  
 
-**Data Analyst Intern / Power BI Developer** *(Jun 2024 - Present)*  
+**Data Analyst Intern / Power BI Developer** *(Johnson Controls | Jun 2024 - Present)*  
 - Spearheaded migration of 70+ enterprise reports from MicroStrategy to Power BI, collaborating with 10+ cross-functional stakeholders to define KPIs, gather business requirements, and drive standardized reporting across departments. 
 - Developed scalable, relational Power BI data models by integrating multi-source datasets (Snowflake, SQL Server, SharePoint, ServiceNow) with robust metadata and refresh controls. 
 - Optimized complex SQL queries using advanced joins, CTEs, indexing, and subqueries—achieving 40% faster runtimes and 70% quicker dashboard load times. 
