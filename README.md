@@ -42,18 +42,18 @@
 
 **Data Analyst / Power BI Developer** *(Johnson Controls | Jun 2025 - Present)*  
 - Built Power BI profitability analytics across the U.S. and Canada, showing cost, labor, and margin by customer
-and job; leadership acted on them, lifting margin from 12.84% to 30.24% and adding $1.4M in business value **.
+and job; leadership acted on them, lifting margin from 12.84% to 30.24% and adding $1.4M in business value.
 - Automated Power BI Paginated Reports with scheduled subscriptions for operations, billing, and customers,
-replacing manual report preparation with consistent weekly and monthly distribution **.
+replacing manual report preparation with consistent weekly and monthly distribution.
 - Developed Python customer service reports as interactive HTML dashboards with KPI tracking, SLA analytics,
-aging trends, advanced filtering, and built-in export **.
+aging trends, advanced filtering, and built-in export.
 - Built an Oracle-to-GCP pipeline using Oracle BI Publisher, SQL, and BigQuery to capture historical transaction
 data, improving pricing transparency and saving procurement teams 2 hours daily in identifying agreement
-changes **.
+changes.
 - Developed service-performance analytics in SQL, Power BI, BigQuery, Oracle, and ServiceMax to track response
-times and SLA compliance, supporting 89.18% first-time fix (FTF) across 52K+ annual service activities **.
+times and SLA compliance, supporting 89.18% first-time fix (FTF) across 52K+ annual service activities.
 - Investigated data-quality issues and root causes across reporting platforms, identifying calculation defects and
-discrepancies to improve confidence in metrics used for executive decision-making **.
+discrepancies to improve confidence in metrics used for executive decision-making.
 
 
 **Data Analytics Intern** *(AWS | Remote | Jun 2022 - Aug 2022)*  
